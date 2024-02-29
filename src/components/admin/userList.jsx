@@ -1,7 +1,7 @@
 import React from "react";
 
 let database  = {
-    name: ["tandin", "gyeltshen"],
+    name: [],
     email: ["tg@gmail.com", "gt@gmail.com"],
     password: ["12345", "45678"]
 }; //We can extract the data from database here
